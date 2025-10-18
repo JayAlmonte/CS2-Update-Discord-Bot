@@ -19,7 +19,7 @@ A sophisticated Discord bot that automatically monitors and posts Counter-Strike
 
 ## 📸 Screenshots
 
-### Update Post Example
+### (WILL ADD PHOTOS SOON)
 The bot posts updates with rich embeds featuring:
 - Color-coded update types (Patch, Event, Major Update)
 - CS2 logo thumbnail
