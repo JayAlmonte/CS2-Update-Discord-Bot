@@ -269,13 +269,7 @@ The bot is modular and easy to extend:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
@@ -287,22 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses [feedparser](https://github.com/kurtmckee/feedparser) for RSS parsing
 - Steam RSS feed provided by Valve Corporation
 - Counter-Strike 2 is a trademark of Valve Corporation
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/cs2-discord-bot](https://github.com/yourusername/cs2-discord-bot)
-
-## 🗺️ Roadmap
-
-- [ ] Web dashboard for bot management
-- [ ] Support for multiple games/RSS feeds
-- [ ] Custom embed templates
-- [ ] Webhook support
-- [ ] Database integration for better tracking
-- [ ] Multi-server support with per-server configuration
-- [ ] Slash commands support
 
 ## ⭐ Star History
 
