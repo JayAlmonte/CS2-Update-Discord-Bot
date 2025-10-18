@@ -37,30 +37,26 @@ The bot posts updates with rich embeds featuring:
 
 ### Installation
 
-1. **Clone the repository**
+1. **Download the files**
 ```bash
-git clone https://github.com/yourusername/cs2-discord-bot.git
-cd cs2-discord-bot
+Download the files to a single folder
 ```
 
-2. **Install dependencies**
-```bash
-pip install discord.py feedparser python-dotenv
-```
-
-3. **Create a `.env` file** in the project root:
+2. **Create a `.env` file** in the project root:
 ```env
 DISCORD_TOKEN=your_bot_token_here
 CHANNEL_ID=your_channel_id_here
 LOG_CHANNEL_ID=your_log_channel_id_here
 CHECK_INTERVAL=10
+
+MAKE SURE THE FILE IS JUST CALLED ".env"
 ```
 
-4. **Enable Discord Developer Mode** (to get Channel IDs):
+3. **Enable Discord Developer Mode** (to get Channel IDs):
    - Open Discord → User Settings → Advanced → Enable "Developer Mode"
    - Right-click any channel → Copy ID
 
-5. **Configure Bot Intents** in Discord Developer Portal:
+4. **Configure Bot Intents** in Discord Developer Portal:
    - Go to [Discord Developer Portal](https://discord.com/developers/applications)
    - Select your application → Bot section
    - Enable these Privileged Gateway Intents:
@@ -68,7 +64,7 @@ CHECK_INTERVAL=10
      - ✅ SERVER MEMBERS INTENT
      - ✅ PRESENCE INTENT
 
-6. **Invite bot to your server**:
+5. **Invite bot to your server**:
    - Go to OAuth2 → URL Generator
    - Select scopes: `bot`
    - Select permissions: 
